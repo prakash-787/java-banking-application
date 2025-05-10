@@ -1,5 +1,3 @@
-// Account.java
-
 public class Account {
     private String accountNumber;
     private String accountHolder;
